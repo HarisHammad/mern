@@ -1,0 +1,15 @@
+.container{
+    max-width: 140rem;
+    padding: 4.2rem 2.4rem;
+    display: flex;
+    justify-content: space-around;
+}
+ul{
+    display: flex;
+    gap: 3.2rem;
+}
+.nav-link {
+    text-decoration: none;
+    color: rgb(114, 114, 240); 
+  }
+ 
