@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useContext } from "react";
 import { AuthContext } from "./store/authContext";
 import { useParams } from "react-router-dom";
-import { toast } from "react-toastify";
+import { toast } from 'react-toastify';
 
 export default function AdminupdateContacts ()  {
     const params = useParams()
